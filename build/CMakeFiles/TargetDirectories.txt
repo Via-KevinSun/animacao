@@ -1,0 +1,3 @@
+D:/UNIVERSIDADE/4 ANO/COMPUTACAO GRAFICA/TRABALHO/animacao/build/CMakeFiles/animacao.dir
+D:/UNIVERSIDADE/4 ANO/COMPUTACAO GRAFICA/TRABALHO/animacao/build/CMakeFiles/edit_cache.dir
+D:/UNIVERSIDADE/4 ANO/COMPUTACAO GRAFICA/TRABALHO/animacao/build/CMakeFiles/rebuild_cache.dir
